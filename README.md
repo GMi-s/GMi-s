@@ -17,7 +17,7 @@ I am Yandex.Practicum - Data Science student and 14 years experience industy eng
 - 👯 I’m looking to collaborate on Data Science
 - 📫 How to reach me: https://t.me/MGunko
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> </h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)</h1>
 <h3 align="center">Computer science student and IT news writer</h3>
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
