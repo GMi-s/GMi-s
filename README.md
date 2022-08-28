@@ -3,7 +3,7 @@
 **GMi-s/GMi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Srudent;Second+line+of+text)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=24&pause=1000&color=5132F7&center=true&width=435&lines=Data+Science+Student)](https://git.io/typing-svg)</h1>
 
 <p><a href="https://www.linkedin.com/in/mikhail-gunko"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 My name is Mikhail Gunko
