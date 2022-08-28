@@ -11,24 +11,22 @@ My name is Mikhail Gunko
 I am Yandex.Practicum - Data Science student and 14 years experience industy engineer. I’m interested in the specialization of Data Science and I'm looking to collaborate on this field.
 
 
-- 🔭 I’m currently working on Electric vehicles production
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Data Science
-- 📫 How to reach me: https://t.me/MGunko
+### Hi there 👋, my name is Mikhail Gunko
+#### I am Yandex.Practicum - Data Science student
+![I am Yandex.Practicum - Data Science student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)</h1>
-<h3 align="center">Computer science student and IT news writer</h3>
-
-[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
+I’m interested in the specialization of Data Science and I'm looking to collaborate in this field.
 
 
-- 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **gunko.m.s@gmail.com**
+Skills: Python, Jupiter Notebook
 
-- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
+- 🔭 I’m currently working on this page. 
 
-- 🌍 I speak Russian (native), English (B2), 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mikhail-gunko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/MGunko)  
+
+
 
 ### Connect with me:
 <p align="left">
