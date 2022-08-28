@@ -4,8 +4,7 @@
 --->
 
 ### Hi there 👋, my name is Mikhail Gunko
-#### I am Yandex.Practicum -
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=3C3EF7&center=false&width=435&lines=Data+Science+Student" alt="Typing SVG" /></a>
+#### I am Yandex.Practicum - href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=3C3EF7&center=false&width=435&lines=Data+Science+Student" alt="Typing SVG" />
 
 
 - 👀 I’m interested in the specialization of Data Science
