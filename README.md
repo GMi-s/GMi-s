@@ -5,6 +5,8 @@
 
 <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=24&pause=1000&color=5132F7&width=435&lines=Data+Science+Student)](https://git.io/typing-svg) </h1>
 
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)</h1>
+
 <p><a href="https://www.linkedin.com/in/mikhail-gunko"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 My name is Mikhail Gunko
 I am Yandex.Practicum - Data Science student and 14 years experience industy engineer. I’m interested in the specialization of Data Science and I'm looking to collaborate on this field.
